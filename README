@@ -1,10 +1,4 @@
 BMI calculator in Python.
 
-Ignore below text.
-
-
-!!!!!/Can/ WILL update to convert between kg/lbs and metres/cm/foot
-
->ask for measurement type
->convert to current values so if statement can be left alone
->give same output
+Calculator is basic BMI calculator in kg and meters
+BMI calculator is the updated version with the option to choose measurement value
